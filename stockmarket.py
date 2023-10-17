@@ -8,9 +8,6 @@ import plotly.express as px
 # Input for the stock symbol
 stock_symbol = input("Enter a Stock Symbol: ")
 
-# Input for the time period
-#time_period = input("Enter a time period: ")
-
 # Get today's date
 today = date.today()
 
